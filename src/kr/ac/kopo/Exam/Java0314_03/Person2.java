@@ -1,8 +1,5 @@
 package kr.ac.kopo.Exam.Java0314_03;
 
-import java.util.LinkedHashMap;
-import java.util.Map;
-
 public class Person2 {
     String name;
     int age;

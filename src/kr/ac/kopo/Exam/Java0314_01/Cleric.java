@@ -1,4 +1,4 @@
-package kr.ac.kopo0314_01;
+package kr.ac.kopo.Exam.Java0314_01;
 
 import java.util.Random;
 

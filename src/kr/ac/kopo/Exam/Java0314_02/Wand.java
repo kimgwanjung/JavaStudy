@@ -1,14 +1,15 @@
-package kr.ac.kopo0313;
+package kr.ac.kopo.Exam.Java0314_02;
 
 public class Wand {
-    public double power = 0;
+    private double power = 0;
     private String name;
     
     public void setPower(double power) {
         if(power < 0.5 || power > 100.0) {
             throw new IllegalArgumentException(("에러요~"));
+        }else {
+            this.power = power;
         }
-        this.power = power;
     }
     public double getPower() {
         return power;
@@ -16,12 +17,11 @@ public class Wand {
     public void setName(String name) {
         if(name == null || name.length() < 3 ) {
             throw new IllegalArgumentException(("에러요~"));
+        }else {
+            this.name = name;
         }
-        this.name = name;
     }
     public String getHp() {
         return name;
     }
 }
-
- 

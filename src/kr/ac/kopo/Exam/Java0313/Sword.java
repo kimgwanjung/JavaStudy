@@ -1,4 +1,4 @@
-package kr.ac.kopo0313;
+package kr.ac.kopo.Exam.Java0313;
 
 public class Sword {
     String name;

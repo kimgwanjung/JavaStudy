@@ -1,4 +1,4 @@
-package kr.ac.kopo0314_03;
+package kr.ac.kopo.Exam.Java0314_03;
 
 import java.util.HashMap;
 import java.util.Map;

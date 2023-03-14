@@ -1,6 +1,6 @@
-package kr.ac.kopo0314_02;
+package kr.ac.kopo.Exam.Java0314_02;
 
-import kr.ac.kopo0313.Sword;
+import kr.ac.kopo.Exam.Java0313.Sword;
 
 public class Hero {
     String name;
